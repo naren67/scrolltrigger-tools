@@ -1,0 +1,35 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+
+body{
+         display: flex; 
+         width: 400%;
+         overflow-x: hidden;
+}
+
+.one{
+          width: 100%;
+          height: 100vh;
+          background: burlywood;
+}
+
+.two{
+          width: 100%;
+          height: 100vh;
+          background: cadetblue;
+}
+
+.three{
+          width: 100%;
+          height: 100vh;
+          background: yellow;  
+}
+
+.four{
+          width: 100%;
+          height: 100vh;
+          background: violet;
+}
